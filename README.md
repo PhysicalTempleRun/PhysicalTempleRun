@@ -1,6 +1,11 @@
 # PhysicalTempleRun
 
 ## Current Workout
+
+### 2023/12 In-Game Video. 아두이노 기기 연결도 기대해 주세요!
+[![](http://img.youtube.com/vi/ugNmqd0OLJU/0.jpg)](https://youtu.be/ugNmqd0OLJU)
+
+### 2023/11
 https://github.com/PhysicalTempleRun/PhysicalTempleRun/assets/48249505/c78b2fd2-d0a1-465b-8f08-6c023b2ae599
 
 ## Release Date
