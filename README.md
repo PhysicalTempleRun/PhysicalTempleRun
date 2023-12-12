@@ -19,3 +19,4 @@ https://github.com/PhysicalTempleRun/PhysicalTempleRun/assets/48249505/c78b2fd2-
 | Min-Seon Kwon | Seo-Jin Kim |
 |--|--|
 |[@mskwon02](https://github.com/mskwon02)|[@SeojinSeojin](https://github.com/SeojinSeojin)|
+
