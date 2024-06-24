@@ -10,7 +10,7 @@ It's a fitness game that can easily be played indoors, and the gaming elements a
 <a href="https://youtu.be/7_ejrTCwenI"><img src="http://img.youtube.com/vi/7_ejrTCwenI/0.jpg" width="100%"/></a>
 
 ## Poster
-![poster](https://github.com/PhysicalTempleRun/.github/assets/48249505/03f79d9e-8139-4300-807f-eb31e9b678b7)
+![realposter](https://github.com/PhysicalTempleRun/.github/assets/48249505/a0ba0b40-99c1-47f6-8fd1-c6719f28e711)
 
 ## Repositories
 |<img src="https://img.shields.io/badge/Arduino-03979D?style=for-the-badge&logo=Arduino&logoColor=white"/>|<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>|
